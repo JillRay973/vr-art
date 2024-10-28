@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1730140384|3656917713';
+const CACHE_VERSION = '1730142709|5981831987';
 /** @type {string} */
 const CACHE_PREFIX = 'iiSXRtemplate-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
